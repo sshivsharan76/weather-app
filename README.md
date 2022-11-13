@@ -12,7 +12,6 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 # Web App View
-## Desktop View
-![image](https://user-images.githubusercontent.com/108619671/201465149-8195e96e-cbef-4f3f-8d1d-ad03d9074e38.png)
+## Desktop View![image](https://user-images.githubusercontent.com/92040473/201509071-a4a96ed9-b329-4454-b437-63bfd297c02e.png)
 ## Moblie View
-![image](https://user-images.githubusercontent.com/108619671/201465118-5a370c40-fda4-4ffc-9cf1-88d47a129e96.png)
+![image](https://user-images.githubusercontent.com/92040473/201509106-892c3752-418e-4bd8-9274-74333dd84783.png)
